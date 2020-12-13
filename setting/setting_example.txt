@@ -1,0 +1,5 @@
+line	CN-49897	CN-84181	currentI	[xiniu.9138:0/yongfu.9138:0]	[xiniu.9138:0.3/yongfu.9138:0.4]	percentage
+bus	tianhe.220M2	busdifferential	[tianhe.2731:0/tianhe.2201:0/tianhe.2837:0/tianhe.2703:0/tianhe.2026:0]	[tianhe.2731:1/tianhe.2201:1/tianhe.2837:1/tianhe.2703:1/tianhe.2026:1]	percentage
+syn	SG1	syndifferential	[SGbr100:0]	[SGbr100:1]	percentage
+trans	Zzhongxin.B1	gas	[Zzhongxin.101:0/Zzhongxin.102:0]	[Zzhongxin.101:1/Zzhongxin.102:1]	gas
+shunt	shunt1	shuntVL	[sh1000:0]	[sh1000:0.8]	voltage
